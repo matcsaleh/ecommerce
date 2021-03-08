@@ -1,0 +1,17 @@
+.cardViewContainer {
+    margin: 5px;
+    width: 300px;
+    height: 400px;
+    justify-content: center;
+    padding: 2px;
+    
+}
+.cardViewContainer img {
+   
+}
+.lowContainer {
+    margin: 6px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

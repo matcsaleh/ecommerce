@@ -1,0 +1,25 @@
+.headerContainer {
+    display: flex;
+    box-shadow:  2px 2px 2px  black;
+    align-items: center;
+    justify-content: space-between;
+    height: 8rem;
+
+}
+
+.headerContainer h1 {
+    font-family: 'Roboto';
+    padding: 1rem;
+
+}
+
+.headerContainer img {
+    margin-right: 0.5rem;  
+    box-shadow: 2px 2px black;
+
+
+}
+
+.btnContainer {
+    margin: 1rem;
+}
